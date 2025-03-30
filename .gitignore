@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env/
+
+# Development environments
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local configuration
+piano_preset.json
+
+# Logs
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db 
